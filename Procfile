@@ -1,0 +1,1 @@
+web: gunicorn bankimdb.wsgi --log-file -
